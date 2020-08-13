@@ -13,7 +13,6 @@
         margin-bottom: 1rem;
     }
 
-    Some shit
     @mixin atMedium {
         &__b-margin-until-medium {
             margin-bottom: 0;
