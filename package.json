@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/AkshayAdimoolam/travel-site#readme",
   "dependencies": {
+    "axios": "^0.20.0",
     "lazysizes": "^5.2.2",
     "lodash": "^4.17.19",
     "normalize.css": "^8.0.1"
